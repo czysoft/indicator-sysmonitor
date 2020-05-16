@@ -56,18 +56,7 @@ To remove:
 
     cd indicator-sysmonitor
     sudo make uninstall
-        
-To install the AppIndicator via PPA:
 
-    sudo add-apt-repository ppa:czysoft/indicator-sysmonitor
-    sudo apt-get update
-    sudo apt-get install indicator-sysmonitor
-    
-    Search in the dash for "indicator-sysmonitor" to run
-
-To install the Budgie Applet via PPA:
-
-    open budgie-welcome - Install Software - Budgie Applets
 
 Changelog:
  
